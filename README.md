@@ -1,2 +1,3 @@
-# MERN-MCA-TRAINING
-JS practice assignments
+# Parthib Sanyal
+Assignment 1
+29171024029
